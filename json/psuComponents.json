@@ -1,0 +1,334 @@
+{
+    "nonmodular": [
+        "select wattage|select Wattage",
+        "nm500|500 - 599",
+        "nm600|600 - 699",
+        "nm700|700 - 799",
+        "nm800|800 - 899"    ],
+    "nm500": [
+        "select rating|Select Rating",
+        "nm500s|Standard",
+        "nm50080b|80+ Bronze",
+        "nm50080g|80+ Gold"
+    ],
+    "nm500s": [
+        "select psu|Select PSU",
+        "Cooler Master MasterWatt Lite 500|Cooler Master MasterWatt Lite 500",
+        "Cooler Master MWE 550 White 230V - V2|Cooler Master MWE 550 White 230V - V2",
+        "Cooler Master MWE 500 White 230V - V2|Cooler Master MWE 500 White 230V - V2",
+        "Cooler Master Elite 500 230V - V4|Cooler Master Elite 500 230V - V4",
+        "Cooler Master Hyper White 500|Cooler Master Hyper White 500",
+        "DeepCool DN550|DeepCool DN550",
+        "DeepCool DN500|DeepCool DN500",
+        "Thermaltake Smart RGB 500W (230V)|Thermaltake Smart RGB 500W (230V)",
+        "Thermaltake Smart 500W|Thermaltake Smart 500W"
+    ],
+    "nm50080b": [
+        "select psu|Select PSU",
+        "Cooler Master MWE 550 Bronze - V2 Full Range|Cooler Master MWE 550 Bronze - V2 Full Range",
+        "DeepCool DA500|DeepCool DA500",
+        "Thermaltake Smart BX1 550W|Thermaltake Smart BX1 550W",
+        "Thermaltake Smart BX1 RGB 550W|Thermaltake Smart BX1 RGB 550W",
+        "Gigabyte PB500|Gigabyte PB500",
+        "Gigabyte GreenMax Plus 550W|Gigabyte GreenMax Plus 550W"
+    ],
+    "nm50080g": [
+        "select psu|Select PSU",
+        "Cooler Master G500 Gold|Cooler Master G500 Gold",
+        "Cooler Master MWE Gold 550 - V2|Cooler Master MWE Gold 550 - V2",
+        "Thermaltake Toughpower GX1 500W Gold|Thermaltake Toughpower GX1 500W Gold",
+        "Thermaltake Toughpower GX1 RGB 500W Gold|Thermaltake Toughpower GX1 RGB 500W Gold"
+    ],
+    "nm600": [
+        "select rating|Select Rating",
+        "nm600s|Standard",
+        "nm60080b|80+ Bronze",
+        "nm60080g|80+ Gold"
+    ],
+    "nm600s": [
+        "select psu|Select PSU",
+        "Cooler Master MasterWatt Lite 600W|Cooler Master MasterWatt Lite 600W",
+        "Cooler Master MWE 650 White 230V - V2|Cooler Master MWE 650 White 230V - V2",
+        "Cooler Master MWE 600 White 230V - V2|Cooler Master MWE 600 White 230V - V2",
+        "Cooler Master Hyper White 600|Cooler Master Hyper White 600",
+        "Cooler Master Elite 600 230V – V4|Cooler Master Elite 600 230V – V4",
+        "DeepCool DN650|DeepCool DN650",
+        "Thermaltake Smart RGB 600W (230V)|Thermaltake Smart RGB 600W (230V)",
+        "Thermaltake Smart 600W|Thermaltake Smart 600W"
+    ],
+    "nm60080b": [
+        "select psu|Select PSU",
+        "psu|Cooler Master MWE 650 Bronze - V2 Full Range",
+        "psu|DeepCool DA600",
+        "psu|Thermaltake Smart BX1 650W",
+        "psu|Thermaltake Smart BX1 RGB 650W",
+        "psu|Gigabyte GreenMax Plus 650W"
+    ],
+    "nm60080g": [
+        "select psu|Select PSU",
+        "psu|Cooler Master G600 Gold",
+        "psu|Cooler Master MWE Gold 650 - V2",
+        "psu|Thermaltake Toughpower GX1 600W Gold",
+        "psu|Thermaltake Toughpower GX1 RGB 600W Gold",
+        "psu|Gigabyte P650G"
+    ],
+    "nm700": [
+        "select rating|Select Rating",
+        "nm700s|Standard",
+        "nm70080b|80+ Bronze",
+        "nm70080g|80+ Gold"
+    ],
+    "nm700s": [
+        "select psu|Select PSU",
+        "psu|Cooler Master MWE 750 White 230V - V2",
+        "psu|Cooler Master MWE 700 White 230V - V2",
+        "psu|Thermaltake Smart RGB 700W (230V)",
+        "psu|Thermaltake Smart 700W"
+    ],
+    "nm70080b": [
+        "select psu|Select PSU",
+        "psu|Cooler MAster MWE 750 Bronze - V2 Full Range",
+        "psu|DeepCool DA700",
+        "psu|Thermaltake Smart BX1 750W",
+        "psu|Thermaltake Smart BX1 RGB 750W"
+    ],
+    "nm70080g": [
+        "select psu|Select PSU",
+        "psu|Cooler Master G700 Gold",
+        "psu|Cooler Master MWE Gold 750 - V2",
+        "psu|DeepCool DQ750ST",
+        "psu|Thermaltake Toughpower GX1 700W Gold",
+        "psu|Thermaltake Toughpower GX1 RGB 700W Gold"
+    ],
+    "nm800": [
+        "select rating|Select Rating",
+        "nm80080g|80+ Gold"
+    ],
+    "nm80080g": [
+        "select psu|Select PSU",
+        "psu|Cooler Master G800 Gold",
+        "psu|Cooler Master MWE Gold 850 - V2"
+    ],
+    "semimodular": [
+        "select wattage|select Wattage",
+        "sm500|500 - 599",
+        "sm600|600 - 699",
+        "sm700|700 - 799",
+        "sm800|800 - 899",
+        "sm1000|1000+"
+    ],
+    "sm500": [
+        "select rating|Select Rating",
+        "sm50080b|80+ Bronze",
+        "sm50080g|80+ Gold"
+    ],
+    "sm50080b": [
+        "select psu|Select PSU",
+        "psu|Cooler Master MasterWatt 550",
+        "psu|Cooler Master MasterWatt 550 TUF Gaming Edition",
+        "psu|Thermaltake Smart DPS G 500W Bronze",
+        "psu|Thermaltake Smart BM2 550W - TT Premium Edition"
+    ],
+    "sm50080g": [
+        "select psu|Select PSU",
+        "psu|Thermaltake Toughpower 550W Gold (Modular)"
+    ],
+    "sm600": [
+        "select rating|Select Rating",
+        "sm60080b|80+ Bronze",
+        "sm60080g|80+ Gold"
+    ],
+    "sm60080b": [
+        "select psu|Select PSU",
+        "psu|Cooler Master MasterWatt 650",
+        "psu|Cooler Master MasterWatt 650 TUF Gaming Edition",
+        "psu|Thermaltake Smart BM2 650W - TT Premium Edition",
+        "psu|ThermaltakeSmart DPS G 600W Bronze",
+        "psu|Thermaltake Smart M 650W Bronze"
+    ],
+    "sm60080g": [
+        "select psu|Select PSU",
+        "psu|Thermaltake Toughpower 650W Gold (Modular)"
+    ],
+    "sm700": [
+        "select rating|Select Rating",
+        "sm70080b|80+ Bronze",
+        "sm70080g|80+ Gold"
+    ],
+    "sm70080b": [
+        "select psu|Select PSU",
+        "psu|Cooler Master MasterWatt 750",
+        "psu|Cooler Master MasterWatt 750 TUF Gaming Edition",
+        "psu|Thermaltake Smart DPS G 700w Bronze",
+        "psu|Thermaltake Smart M 750W Bronze",
+        "psu|Gigabyte B-H 700W"
+    ],
+    "sm70080g": [
+        "select psu|Select PSU",
+        "psu|Thermaltake Toughpower 750W Gold (Modular)",
+        "psu|Gigabyte GP-G750H"
+    ],
+    "sm800": [
+        "select rating|Select Rating",
+        "sm800s|Standard",
+        "sm80080b|80+ Bronze",
+        "sm80080g|80+ Gold"
+    ],
+    "sm800s": [
+        "select psu|Select PSU",
+        "psu|Gigabyte Odin GT"
+    ],
+    "sm80080b": [
+        "select psu|Select PSU",
+        "psu|Thermaltake Smart M 850W Bronze"
+    ],
+    "sm80080g": [
+        "select psu|Select PSU",
+        "psu|Thermaltake Toughpower 850W GOLD"
+    ],
+    "sm1000": [
+        "select rating|Select Rating",
+        "sm100080g|80+ Gold"
+    ],
+    "sm100080g": [
+        "select psu|Select PSU",
+        "psu|Thermaltake Toughpower 1000W GOLD",
+        "psu|Thermaltake Toughpower Grand 1050W",
+        "psu|Thermaltake Toughpower 1200W GOLD",
+        "psu|Thermaltake Toughpower 1500W Gold"
+    ],
+    "fullymodular": [
+        "select wattage|select Wattage",
+        "fm500|500 - 599",
+        "fm600|600 - 699",
+        "fm700|700 - 799",
+        "fm800|800 - 899",
+        "fm1000|1000+"
+    ],
+    "fm500": [
+        "select rating|Select Rating",
+        "fm500s|Standard",
+        "fm50080g|80+ Gold"
+    ],
+    "fm500s": [
+        "select psu|Select PSU",
+        "psu|Cooler Master MasterWatt Lite 500 Full Modular"
+    ],
+    "fm50080g": [
+        "select psu|Select PSU",
+        "psu|Cooler Master MWE Gold 550 - V2 Full Modular",
+        "psu|Cooler Master V550 Gold - V2",
+        "psu|Thermaltake Toughpower SFX 550W Gold - TT Premium Edition"
+    ],
+    "fm600": [
+        "select rating|Select Rating",
+        "fm60080b|80+ Bronze",
+        "fm60080g|80+ Gold",
+        "fm60080p|80+ Platinum"
+    ],
+    "fm60080b": [
+        "select psu|Select PSU",
+        "psu|DeepCool DA600-M",
+        "psu|Thermaltake Smart Pro RGB 650W Bronze"
+    ],
+    "fm60080g": [
+        "select psu|Select PSU",
+        "psu|Cooler Master MWE Gold 650 - V2 Full Modular",
+        "psu|Cooler Master V650 Gold - V2",
+        "psu|DeepCool PQ650M",
+        "psu|DeepCool DQ650-M-V2L",
+        "psu|Thermaltake Toughpower SFX 650W Gold - TT Premium Edition",
+        "psu|Thermaltake Toughpower GF2 ARGB 650W - TT Premium Edition",
+        "psu|Thermaltake Toughpower GF1 650W - TT Premium Edition",
+        "psu|Thermaltake Toughpower Grand RGB 650W Gold (RGB Sync Edition)",
+        "psu|Thermaltake Toughpower Grand RGB 650W Gold Full Modular",
+        "psu|Thermaltake Toughpower DPS G RGB 650W Gold"
+    ],
+    "fm60080p": [
+        "select psu|Select PSU",
+        "psu|Cooler Master XG650 Plus Platinum",
+        "psu|Cooler Master XG650 Platinum"
+    ],
+    "fm700": [
+        "select rating|Select Rating",
+        "fm70080b|80+ Bronze",
+        "fm70080g|80+ Gold",
+        "fm70080p|80+ Platinum"
+    ],
+    "fm70080b": [
+        "select psu|Select PSU",
+        "psu|Thermaltake Smart Pro RGB 750W Bronze"
+    ],
+    "fm70080g": [
+        "select psu|Select PSU",
+        "psu|Cooler Master MWE Gold 750 - V2 Full Modular",
+        "psu|Cooler Master V750 Gold - V2",
+        "psu|DeepCool PQ750M",
+        "psu|DeepCool DQ750-M-V2L",
+        "psu|Thermaltake Toughpower GF2 ARGB 750W - TT Premium Edition",
+        "psu|Gigabyte AORUS P GM 750W",
+        "psu|Gigabyte UD750GM",
+        "psu|Gigabyte P GM 750W"
+    ],
+    "fm70080p": [
+        "select psu|Select PSU",
+        "psu|Cooler Master XG750 Plus Platinum",
+        "psu|Cooler Master XG750 Platinum"
+    ],
+    "fm800": [
+        "select rating|Select Rating",
+        "fm80080b|80+ Bronze",
+        "fm80080g|80+ Gold",
+        "fm80080p|80+ Platinum"
+    ],
+    "fm80080b": [
+        "select psu|Select PSU",
+        "psu|Thermaltake Smart Pro RGB 850W Bronze"
+    ],
+    "fm80080g": [
+        "select psu|Select PSU",
+        "psu|Cooler Master MWE Gold 850 - V2 Full Modular",
+        "psu|DeepCool PQ850M",
+        "psu|DeepCool DQ850-M-V2L",
+        "psu|Gigabyte P GM 850W",
+        "psu|Gigabyte UD850GM",
+        "psu|Gigabyte AORUS P GM 850W"
+    ],
+    "fm80080p": [
+        "select psu|Select PSU",
+        "psu|Cooler Master XG850 Plus Platinum",
+        "psu|Cooler Master XG850 Platinum",
+        "psu|Cooler Master V850 Platinum"
+    ],
+    "fm1000": [
+        "select rating|Select Rating",
+        "fm100080g|80+ Gold",
+        "fm100080p|80+ Platinum",
+        "fm100080t|80+ Titanium"
+    ],
+    "fm100080g": [
+        "select psu|Select PSU",
+        "psu|Cooler Master MWE Gold 1250 - V2 Full Modular",
+        "psu|Cooler Master GX GOLD 1050 - V2 Full Modular",
+        "psu|DeepCool PQ1000M",
+        "psu|Toughpower 1000W GOLD",
+        "psu|Toughpower Grand 1050W",
+        "psu|Toughpower 1200W GOLD",
+        "psu|Toughpower 1500W Gold",
+        "psu|Gigabyte UD1000GM",
+        "psu|Gigabyte P GM 1000W"
+    ],
+    "fm100080p": [
+        "select psu|Select PSU",
+        "psu|Cooler Master M2000 Platinum",
+        "psu|Cooler Master V1000 Platinum",
+        "psu|Cooler Master V1300 Platinum",
+        "psu|Cooler Master V1200 Platinum",
+        "psu|Gigabyte AORUS P PM 1200W"
+    ],
+    "fm100080t": [
+        "select psu|Select PSU",
+        "psu|Cooler Master MasterWatt Maker 1200 Plus",
+        "psu|Cooler Master MasterWatt Maker 1500 Plus"
+    ]
+}
